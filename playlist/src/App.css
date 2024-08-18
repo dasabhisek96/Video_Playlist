@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-image: url("Background\ .avif");
+  background-repeat: no-repeat;
+    background-size: 2000px 1200px;
+}
+
+.main-content {
+  display: flex;
+  flex: 1;
+}
+

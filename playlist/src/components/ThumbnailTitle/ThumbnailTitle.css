@@ -1,0 +1,41 @@
+.thumbnail-title {
+    width: 20%;
+    padding: 20px;
+    background-color: #9cc3ea;
+    border-style: solid;
+    border-radius: 25px;
+    width: 300px;
+    height: 600px;
+    background-image: url("Thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: 1200px 800px;
+  }
+  
+  .thumbnail-title input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 80px;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    border-radius: 80px;
+  }
+  
+  .product-list {
+    margin-bottom: 20px;
+  }
+  
+  .update-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #062c55;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 80px;
+  }
+  

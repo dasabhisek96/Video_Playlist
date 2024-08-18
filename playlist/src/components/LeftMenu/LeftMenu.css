@@ -1,0 +1,29 @@
+.left-menu {
+    width: 40%;
+    padding: 20px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: #ccdff1;
+    color: rgb(19, 62, 231);
+    background-image: url("Leftmenu.jpg");
+    background-repeat: no-repeat;
+    background-size: 1200px 800px;
+    width: 200px;
+    height: 700px;
+  }
+  
+  .left-menu h1, .left-menu h2 {
+    margin: 0;
+    padding: 100px 0;
+  }
+  
+  .left-menu ul {
+    list-style: none;
+    padding: 5;
+  }
+  
+  .left-menu li {
+    margin: 10px 0;
+    cursor: pointer;
+  }
+  

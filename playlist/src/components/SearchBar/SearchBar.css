@@ -1,0 +1,35 @@
+.search-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 80px;
+    background-color: #c3f0d2;
+    position: relative;
+    background-image: url("search.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px 800px;
+    margin: 10px;
+    color: rgb(19, 28, 128);
+  }
+  
+  .left span {
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  
+  .right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .right input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .user-profile {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
